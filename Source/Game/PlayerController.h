@@ -34,17 +34,19 @@ public:
     API_FIELD() float _jumpVerticalForce = 1000.0;
 
     
-
+    // Retrieves player status
     static PlayerController* GetInstance(); 
     Vector3 GetVelocity();
 
+    // Fires shotgun and adjusts physics according to recoil power
     void FireShotgun(float recoilPower);
 
+    // Handles camera positioning
     Quaternion GetCameraOrientation();
     Vector3 GetCameraPosition();
-    void HandlePickup(int pickupType);
-    // [Script]
 
+    // Picks up items
+    void HandlePickup(int pickupType);
 
 
 private:
@@ -86,20 +88,36 @@ private:
     bool _dead = false;
     bool _isLookingBackward = false;
     bool _awaitingReset = false;
+
+    // Allows character movements
     void HandleMovement();
+
+    // Determines status of player (on ground vs. in air) for movement
     void EvaluateState();
+
+    // Adjusts camera angle according to movement
     void PitchCamera();
+
+    // Rotate body according to cursor
     void RotateBody();
+
+    // Determine movement
     void HandleHorizontalMovement();
     void HandleVerticalMovement();
+
+    // Moves character
     void ApplyMovement();
 
+    // Does jump math
     void EvaluateJump();
 
-
+    // Handles death
     void Die();
+
+    // Handles shooting
     void HandleShooting();
 
+    // Collision physics
     void OnTriggerEnter(PhysicsColliderActor* other);
     void OnCollisionEnter(const Collision& collision);
 };

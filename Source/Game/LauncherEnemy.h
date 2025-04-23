@@ -14,6 +14,8 @@ DECLARE_SCRIPTING_TYPE(LauncherEnemy);
     void OnEnable() override;
     void OnDisable() override;
     void OnUpdate() override;
+
+    // Spawns missiles according to spawn timer
     void SpawnMissile();
     float _spawnTimer;
     void Reset();

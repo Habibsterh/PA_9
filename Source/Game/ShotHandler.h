@@ -13,6 +13,8 @@ DECLARE_SCRIPTING_TYPE(ShotHandler);
     void OnDisable() override;
     void OnUpdate() override;
 public:
+
+    // Shoots a shot when shooting
     void TakeShot();
     Delegate<> OnShot;
 };

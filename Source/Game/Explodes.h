@@ -13,6 +13,8 @@ DECLARE_SCRIPTING_TYPE(Explodes);
     void OnDisable() override;
     void OnUpdate() override;
 public:
+
+    // Calls explosion prefab
     void Explode();
     API_FIELD() AssetReference<Prefab> _explosionPrefab;
 };

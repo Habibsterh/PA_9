@@ -18,9 +18,13 @@ void OnEnable() override;
 void OnDisable() override;
 void OnUpdate() override;
 PlayerController* _followPlayer = nullptr;
+
+// Sets target player
 void FindPlayer();
+
 void OnReset();
 
+// Handles missile death through getting shot
 void GetShot();
 
 public:
@@ -29,6 +33,9 @@ public:
     API_FIELD() ScriptingObjectReference<AudioSource> _audioSource;
     API_FIELD() float _thrustPower;
 
+    // Physics for colliding with other objects
     void OnTriggerEnter(PhysicsColliderActor* other);
+
+    // Sets intial velocity magnitude and direction
     void SetInitialVelocity(Vector3 force);
 };

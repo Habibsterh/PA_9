@@ -10,6 +10,7 @@ DECLARE_SCRIPTING_TYPE(Key);
 
     // [Script]
 
+    // Opens door using key
     void Open();
     void OnStart() override;
     void OnDestroy() override;

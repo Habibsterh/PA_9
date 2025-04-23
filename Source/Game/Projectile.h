@@ -17,8 +17,11 @@ DECLARE_SCRIPTING_TYPE(Projectile);
 
     Vector3 _currentVelocity;
 
+    // Handle physics
     void OnTriggerEnter(PhysicsColliderActor* other);
 public:
+
+    // Sets velocity of projectile
     void SetVelocity(Vector3 velocity);
 
     API_FIELD() ScriptingObjectReference<Collider> _collider;

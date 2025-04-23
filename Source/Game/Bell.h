@@ -21,6 +21,6 @@ DECLARE_SCRIPTING_TYPE(Bell);
 public:
     API_FIELD() ScriptingObjectReference<Pickup> _pickup;
     API_FIELD() AssetReference<Prefab> _audioSource;
-     
+    //Handles interactions with bell
     void Ring();
 };

@@ -13,6 +13,8 @@ DECLARE_SCRIPTING_TYPE(MineSpawner);
     void OnDisable() override;
     void OnUpdate() override;
     float _spawnTimer;
+
+    // Spawn mine according to spawn timer
     void SpawnMine();
     
 

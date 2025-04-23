@@ -33,6 +33,8 @@ public:
 	API_FIELD() float _pistolVisualRecoilRotation = 45;
 	API_FIELD() float _shotgunVisualRecoilDistance = 15;
 	API_FIELD() float _shotgunVisualRecoilRotation = 60;
+
+	// Increases ammo of appropriate weapon on ammo pick up
 	void HandlePickup(int type);
 
 private:
@@ -40,14 +42,23 @@ private:
 	void OnEnable() override;
 	void OnDisable() override;
 	void OnUpdate() override;
+
+	// Fires appropriate weapon
 	void HandleAttack();
 	void Reset();
+
+	// Handles physics for gun recoil
 	void PistolRecoil();
 	void ShotunRecoil();
+
+	// Appropriately animates weapons
 	void HandleWeaponVisuals();
+
+	// Fires guns
 	void FirePistol();
 	void FireShotgun();
 
+	// Handles visuals for bullet trails
 	void SpawnTrail(Vector3 startPoint, Vector3 endPoint);
 
 	float _timeLastAttack;
@@ -63,6 +74,7 @@ private:
 	Vector3 _pistolRestPosition;
 	Quaternion _pistolRestRotation;
 
+	// Calculate and reset guns position
 	Vector3 CalculatePistolPosition();
 	Vector3 CalculateShotgunPosition();
 

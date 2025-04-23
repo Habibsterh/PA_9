@@ -18,10 +18,14 @@ DECLARE_SCRIPTING_TYPE(FloatingMine);
     void OnDisable() override;
     void OnUpdate() override;
     void OnDestroy() override;
+    // Calls handle death
     void GetShot();
     void OnStart() override;
+    // Resets mine
     void OnReset();
+    // Handles explosion on collision
     void OnTriggerEnter(PhysicsColliderActor* other);
+    // Explodes and deletes itself as necessary
     void HandleDeath();
     bool _awaitingReset = false;
 

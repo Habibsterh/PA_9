@@ -13,6 +13,8 @@ DECLARE_SCRIPTING_TYPE(Pickup);
     void OnDisable() override;
     void OnUpdate() override;
     void Reset();
+
+    // Handles binding and unbinding
     void OnStart() override;
     void OnDestroy() override;
 public:
@@ -20,12 +22,13 @@ public:
 
     Delegate<> OnGrabbed;
     API_FIELD() int _type = 0;
-    //because enums are fucked
+    //because enums are f*cked
     //0 is time
     //1 is pistol
     //2 is shotgun
     //3 is win
 
+    // Picks up item and plays appropriate audio
     int Grab();
 
 };

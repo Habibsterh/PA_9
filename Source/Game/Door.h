@@ -18,7 +18,9 @@ void OnDestroy() override;
     bool _isOpening = false;
     float _timeToOpen = 0.6;
 public:
+    // Plays door opening sound and sets _isOpening to true
     void Open();
+    // Resets door
     void Reset();
     API_FIELD() ScriptingObjectReference<Actor> _doorTransform;
     

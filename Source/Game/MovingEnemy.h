@@ -14,8 +14,13 @@ public:
     API_FIELD() Array<ScriptingObjectReference<Actor>> _followPoints; 
     API_FIELD() float _moveSpeed = 1000.0;
 
+    // Handles death
     void SetDestroysSelf(bool destroysSelf);
+
+    // Sets pathing for moving enemies
     void SetFollowPoints(const Array<ScriptingObjectReference<Actor>>& points);
+
+    // Adds a new point to pathing
     void AddFollowPoint(const ScriptingObjectReference<Actor>& newPoint);
 private:
     int _currentFollowPointIndex = 0;

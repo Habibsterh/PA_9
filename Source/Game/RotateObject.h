@@ -7,9 +7,10 @@ API_CLASS() class GAME_API RotateObject : public Script
 API_AUTO_SERIALIZATION();
 DECLARE_SCRIPTING_TYPE(RotateObject);
 
-    // [Script]
 
     void OnUpdate() override;
+
+    // Makes things spin
     void Rotate();
     void OnEnable() override;
 public:

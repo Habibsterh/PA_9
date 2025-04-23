@@ -1,54 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\",
+  "WorkspaceRootPath": "C:\\Users\\habib\\Documents\\PA_9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\PlayerController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|solutionrelative:Source\\Game\\PlayerController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|C:\\Users\\habib\\Documents\\PA_9\\Source\\Game.Gen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|solutionrelative:Source\\Game.Gen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\PlayerController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|solutionrelative:Source\\Game\\PlayerController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Rocket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|solutionrelative:Source\\Game\\Rocket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Rocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|solutionrelative:Source\\Game\\Rocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Door.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|solutionrelative:Source\\Game\\Door.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Door.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|solutionrelative:Source\\Game\\Door.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|solutionrelative:Source\\Game\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Pickup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|solutionrelative:Source\\Game\\Pickup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Pickup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|solutionrelative:Source\\Game\\Pickup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Bell.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|solutionrelative:Source\\Game\\Bell.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Bell.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|solutionrelative:Source\\Game\\Bell.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\PlayerWeapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|solutionrelative:Source\\Game\\PlayerWeapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|C:\\Users\\habib\\Documents\\PA_9\\Source\\Game.Gen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{701C68AA-F2B1-4EBB-A2EE-4EEE05F62D7A}|Cache\\Projects\\PA_8.vcxproj|solutionrelative:Source\\Game.Gen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,167 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlayerController.h",
-              "DocumentMoniker": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\PlayerController.h",
-              "RelativeDocumentMoniker": "Source\\Game\\PlayerController.h",
-              "ToolTip": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\PlayerController.h",
-              "RelativeToolTip": "Source\\Game\\PlayerController.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-22T23:02:31.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Rocket.h",
-              "DocumentMoniker": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Rocket.h",
-              "RelativeDocumentMoniker": "Source\\Game\\Rocket.h",
-              "ToolTip": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Rocket.h",
-              "RelativeToolTip": "Source\\Game\\Rocket.h",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-22T22:48:19.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Rocket.cpp",
-              "DocumentMoniker": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Rocket.cpp",
-              "RelativeDocumentMoniker": "Source\\Game\\Rocket.cpp",
-              "ToolTip": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Rocket.cpp",
-              "RelativeToolTip": "Source\\Game\\Rocket.cpp",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAwEgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-22T22:48:18.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Door.cpp",
-              "DocumentMoniker": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Door.cpp",
-              "RelativeDocumentMoniker": "Source\\Game\\Door.cpp",
-              "ToolTip": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Door.cpp",
-              "RelativeToolTip": "Source\\Game\\Door.cpp",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-22T22:39:42.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Door.h",
-              "DocumentMoniker": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Door.h",
-              "RelativeDocumentMoniker": "Source\\Game\\Door.h",
-              "ToolTip": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Door.h",
-              "RelativeToolTip": "Source\\Game\\Door.h",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-22T22:39:11.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GameManager.cpp",
-              "DocumentMoniker": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\GameManager.cpp",
-              "RelativeDocumentMoniker": "Source\\Game\\GameManager.cpp",
-              "ToolTip": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\GameManager.cpp",
-              "RelativeToolTip": "Source\\Game\\GameManager.cpp",
-              "ViewState": "AgIAAO0AAAAAAAAAAAAAAOgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-22T22:36:49.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Pickup.cpp",
-              "DocumentMoniker": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Pickup.cpp",
-              "RelativeDocumentMoniker": "Source\\Game\\Pickup.cpp",
-              "ToolTip": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Pickup.cpp",
-              "RelativeToolTip": "Source\\Game\\Pickup.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAC0AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-22T22:30:53.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Pickup.h",
-              "DocumentMoniker": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Pickup.h",
-              "RelativeDocumentMoniker": "Source\\Game\\Pickup.h",
-              "ToolTip": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Pickup.h",
-              "RelativeToolTip": "Source\\Game\\Pickup.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-22T22:30:54.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Bell.cpp",
-              "DocumentMoniker": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Bell.cpp",
-              "RelativeDocumentMoniker": "Source\\Game\\Bell.cpp",
-              "ToolTip": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Bell.cpp",
-              "RelativeToolTip": "Source\\Game\\Bell.cpp",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-22T22:27:46.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Bell.h",
-              "DocumentMoniker": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Bell.h",
-              "RelativeDocumentMoniker": "Source\\Game\\Bell.h",
-              "ToolTip": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\Bell.h",
-              "RelativeToolTip": "Source\\Game\\Bell.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-22T22:27:10.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerController.cpp",
-              "DocumentMoniker": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\PlayerController.cpp",
-              "RelativeDocumentMoniker": "Source\\Game\\PlayerController.cpp",
-              "ToolTip": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\PlayerController.cpp",
-              "RelativeToolTip": "Source\\Game\\PlayerController.cpp",
-              "ViewState": "AgIAAJ8BAAAAAAAAAAAAAK0BAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-22T22:23:31.595Z",
+              "Title": "Game.Gen.h",
+              "DocumentMoniker": "C:\\Users\\habib\\Documents\\PA_9\\Source\\Game.Gen.h",
+              "RelativeDocumentMoniker": "Source\\Game.Gen.h",
+              "ToolTip": "C:\\Users\\habib\\Documents\\PA_9\\Source\\Game.Gen.h",
+              "RelativeToolTip": "Source\\Game.Gen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T18:58:36.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PlayerWeapon.h",
-              "DocumentMoniker": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\PlayerWeapon.h",
-              "RelativeDocumentMoniker": "Source\\Game\\PlayerWeapon.h",
-              "ToolTip": "C:\\Users\\winst\\OneDrive\\Documents\\Flax Projects\\PA_9\\Source\\Game\\PlayerWeapon.h",
-              "RelativeToolTip": "Source\\Game\\PlayerWeapon.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-22T22:16:04.994Z",
+              "DocumentIndex": 1,
+              "Title": "Game.Gen.cpp",
+              "DocumentMoniker": "C:\\Users\\habib\\Documents\\PA_9\\Source\\Game.Gen.cpp",
+              "RelativeDocumentMoniker": "Source\\Game.Gen.cpp",
+              "ToolTip": "C:\\Users\\habib\\Documents\\PA_9\\Source\\Game.Gen.cpp",
+              "RelativeToolTip": "Source\\Game.Gen.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T18:58:35.582Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
